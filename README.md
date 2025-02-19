@@ -15,11 +15,15 @@
 ### For Production (production Mode)
 - Set an environment variable before running FastAPI:
 🔹 On Windows (Command Prompt)
-```sh 
+```
+sh 
 set APP_ENV=production
-uvicorn app:app --reload ```
+uvicorn app:app --reload 
+```
+
 🔹 On Mac/Linux(Bash)
-```sh
+```
+sh
 export APP_ENV=production
 uvicorn app:app --reload
 ```
