@@ -1,6 +1,9 @@
-## To test API
+## This API - SQL Server -> AdventureWorks2016
 
 ``` http://127.0.0.1:8000
+
 ``` http://127.0.0.1:8000/welcome
+
 ``` http://127.0.0.1:8000/products
-``` http://127.0.0.1:8000/docs
+
+``` http://127.0.0.1:8000/docs  (swagger)
